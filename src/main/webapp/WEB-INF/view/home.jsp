@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	<h2>Ederson Home Page</h2>
+	<h2>Ederson Home Page - Yoo</h2>
 	<hr>
 	Welcome to Ederson Company's Home Page
 </body>
